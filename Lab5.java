@@ -1,6 +1,5 @@
 package led92_lab5;
 
-import java.util.Scanner;
 import java.util.Random;
 
 public class Lab5 {
